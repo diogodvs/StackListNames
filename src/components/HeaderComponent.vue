@@ -1,6 +1,6 @@
 <template>
-    <header class="w-full bg-dark-400">
-        <div class="flex items-center justify-between py-4 px-32">
+    <header class="w-full">
+        <div class="flex items-center justify-between py-4 px-32 bg-dark-400">
             <img  
                 src="@/assets/icons/group1.svg"
                 alt="Logo StackX"
@@ -13,7 +13,7 @@
                 <img
                     src="https://avatars.githubusercontent.com/u/88931507?v=4"
                     alt="Imagem perfil"
-                    class=" w-11 h-11 rounded-full"
+                    class="w-11 h-11 rounded-[50%]"
                 />
             </button>
         </div>
