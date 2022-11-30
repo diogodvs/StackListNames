@@ -1,4 +1,4 @@
-# desafio-stackx-web3
+# Lista de Alunos criada em aula com professor Gabriel Lennon
 
 ## Project setup
 ```
